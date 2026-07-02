@@ -1,0 +1,19 @@
+# node依赖文件夹
+node_modules/
+# npm生成的锁文件（可选保留，保留能固定依赖版本，不写也可以）
+# package-lock.json
+# npm/yarn日志
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+# 运行产生的临时文件夹
+dist/
+build/
+# 系统缓存文件
+.DS_Store
+Thumbs.db
+# IDE配置缓存
+.idea/
+.vscode/
+*.swp
+*.swo
